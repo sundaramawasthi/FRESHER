@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "511829996265",
+    "project_id": "fresherspace-738e3",
+    "storage_bucket": "fresherspace-738e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511829996265:android:81cbe9cefae3f321d9f678",
+        "android_client_info": {
+          "package_name": "com.example.fresher_space"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511829996265-970fsh6m2t2o1pv91hftd8ja2e1a0lbo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fresher_space",
+            "certificate_hash": "378e548e1df99e774f4b5be82fe744c2cf8046dd"
+          }
+        },
+        {
+          "client_id": "511829996265-t8kd8e38s7adqplfp8lmq6h9fdaktifq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRD7XOuiOXTT0m8XH1sZEc7-NSkBBUG3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511829996265-t8kd8e38s7adqplfp8lmq6h9fdaktifq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
