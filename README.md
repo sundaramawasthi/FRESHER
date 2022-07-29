@@ -5,7 +5,9 @@ A new Flutter project.
 ## Getting Started
 
 
-(https://github.com/sundaramawasthi/UI/blob/master/UI.jpg)
+![Dashboard](https://github.com/sundaramawasthi/FRESHER/blob/master/fresherimg2.jpg)
+![Dashboard](https://github.com/sundaramawasthi/FRESHER/blob/master/fresherimg3.jpg)
+![Dashboard](https://github.com/sundaramawasthi/FRESHER/blob/master/Fresherimg.jpg)
 
 This project is a starting point for a Flutter application.
 
