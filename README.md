@@ -9,6 +9,12 @@ A new Flutter project.
 ![Dashboard](https://github.com/sundaramawasthi/FRESHER/blob/master/fresherimg3.jpg)
 ![Dashboard](https://github.com/sundaramawasthi/FRESHER/blob/master/Fresherimg.jpg)
 
+![Dashboard](https://github.com/sundaramawasthi/FRESHER/blob/master/fresherPIC.png)
+
+![Dashboard](https://github.com/sundaramawasthi/FRESHER/blob/master/FresherpIC2.png)
+
+![Dashboard](https://github.com/sundaramawasthi/FRESHER/blob/master/FresherPIC3.png)
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
